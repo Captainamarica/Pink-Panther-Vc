@@ -1,8 +1,8 @@
 {
-    "name": "Zaid Vc Player",
+    "name": "PINK Panther VC",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["Zaid", "Zaid-Vc-Player", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music"],
-    "repository": "https://github.com/ITZ-ZAID/Zaid-Vc-Player",
+    "repository": "https://github.com/Captainamarica/Pink-Panther-Vc",
   "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -12,37 +12,37 @@
         "ASSISTANT_NAME": {
             "description": "fill with your telegram id as the owner of the bot",
             "required": true,
-            "value": "Zaid_assistant"
+            "value": "Nightvissionmusic"
         },
         "BOT_USERNAME": {
             "description": "fill with telegram id of account",
             "required": true,
-            "value": "Zaid2_Robot"
+            "value": "PinkPantherVcbot"
         },
         "API_ID": {
             "description": "your Api ID from my.telegram.org/apps",
             "required": true,
-            "value": "6435225"
+            "value": "18895284"
         },
         "API_HASH": {
             "description": "your Api Hash from my.telegram.org/apps",
             "required": false,
-            "value": "4e984ea35f854762dcde906dce426c2d"
+            "value": "3091d00186aa25b92a9b791dcebd59de"
         },
         "GROUP_SUPPORT": {
             "description": "Ur Support Group Username",
             "required": false,
-            "value": "TheSupportChat"
+            "value": "NightVission"
         },
         "UPDATES_CHANNEL": {
             "description": "Your Updates Channel",
             "required": false,
-            "value": "TheUpdatesChannel"
+            "value": "NightVission"
         },
         "SUDO_USERS": {
             "description": "fill with the user id who can access all function in your bot (separate with space).",
             "required": true,
-            "value": "1669178360"
+            "value": "5196689118 5381705557"
         },
         "DURATION_LIMIT": {
             "description": "filled, don't change this !",
@@ -52,7 +52,7 @@
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
             "required": true,
-            "value": ""
+            "value": "5334563722:AAEZDlquPjBaJsa9jKOVrlKGqyrZgN0FdMc"
         }
 
     }
